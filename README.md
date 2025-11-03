@@ -1,3 +1,5 @@
+![ADA – Analista de Decisões e Acórdãos](assets/ada-gpt.png)
+
 # ADA – Analista de Decisões e Acórdãos
 
 Repositório que documenta o GPT "ADA – Analista de Decisões e Acórdãos", criado no ChatGPT para **resumir e analisar decisões de cortes e tribunais brasileiros**, com rigor e conteúdo detalhado.
