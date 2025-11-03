@@ -19,4 +19,4 @@ Descrever de forma reprodutível o GPT que existe na plataforma do ChatGPT, para
 8. Não incluir actions.
 
 ## Citação sugerida
-UCHOA, Cibele. ADA – Analista de Decisões e Acórdãos: especificação e documentação. GitHub: https://github.com/uchoacibele/ada_analista_ia, 2025.
+UCHOA, Cibele Alexandre. ADA – Analista de Decisões e Acórdãos: especificação e documentação. GitHub: https://github.com/uchoacibele/ada_analista_ia, 2025.
