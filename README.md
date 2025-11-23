@@ -1,5 +1,7 @@
 ![ADA – Analista de Decisões e Argumentos](assets/ada-gpt.png)
 
+[![Licença: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 # ADA – Analista de Decisões e Argumentos
 
 Repositório que documenta o GPT "ADA – Analista de Decisões e Argumentos", criado no ChatGPT para **resumir e analisar decisões de cortes e tribunais brasileiros**, com rigor e conteúdo detalhado.
